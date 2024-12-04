@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Pizza_POS_System\Pizza_POS_System\bin\Debug\Pizza_POS_System.exe.config
+C:\Users\Admin\source\repos\Pizza_POS_System\Pizza_POS_System\bin\Debug\Pizza_POS_System.exe
+C:\Users\Admin\source\repos\Pizza_POS_System\Pizza_POS_System\bin\Debug\Pizza_POS_System.pdb
+C:\Users\Admin\source\repos\Pizza_POS_System\Pizza_POS_System\bin\Debug\Pizza_POS_System.xml
+C:\Users\Admin\source\repos\Pizza_POS_System\Pizza_POS_System\obj\Debug\Pizza_POS_System.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Pizza_POS_System\Pizza_POS_System\obj\Debug\Pizza_POS_System.Form1.resources
+C:\Users\Admin\source\repos\Pizza_POS_System\Pizza_POS_System\obj\Debug\Pizza_POS_System.Resources.resources
+C:\Users\Admin\source\repos\Pizza_POS_System\Pizza_POS_System\obj\Debug\Pizza_POS_System.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Pizza_POS_System\Pizza_POS_System\obj\Debug\Pizza_POS_System.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Pizza_POS_System\Pizza_POS_System\obj\Debug\Pizza_POS_System.exe
+C:\Users\Admin\source\repos\Pizza_POS_System\Pizza_POS_System\obj\Debug\Pizza_POS_System.xml
+C:\Users\Admin\source\repos\Pizza_POS_System\Pizza_POS_System\obj\Debug\Pizza_POS_System.pdb
